@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.12.0/3742beff8024d0a0073d284b7c5e4cbf73d99b25/okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.12.0_44edca1621112f0cd8369bae78e8eba4260b7338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel/1.7.0/d1d9bd84ef6907f9cf56e6bc8ce766c99d083635/fuel-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d1d9bd84ef6907f9cf56e6bc8ce766c99d083635">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/fuel-1.7.0_2bf4fa74db71bceec05ed0bd6093117916c48113/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/f3fa239229d823798020582b9cccdcfa621ede0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_492cd4aa0876e398edd6efc20c449f5654436b59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.result/result/1.1.0/89233f2c53c3633c998c681c4873f879f2086d6f/result-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="89233f2c53c3633c998c681c4873f879f2086d6f">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/result-1.1.0_3aeeb63cb14761160f8ac0734cfbdb7074ab79c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-codec-1.10_ce4872e80eba2cc282b3568a40f7b2cad47fe255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_97a57f3e74329f7913d5416a7b11c9c465ab255e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/f697e07a155de6a41d5a611c23ea641dce299756/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82bff7298a1dc8683c03a2c41b82bdca35e8eaa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_a0ccc7945300f5915cd65cb95e890ef0f4a12759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.3-2/9b44c139a4ec57031e0c84ba0e49ba16df6d801c/kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.1.3-2_e196f0a3da0872869114c8ee51dbc281bb6b9306/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_9103f583d6c2f45b772c8576df7bdcaed6ac325d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/2c5d4e6b705290dcad5a051c1e94de39a5da70be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="80fba99f08a07df8ffa30a0497ad80576f636e17">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ca039acc0128056942b2e5b21a0e84d2e3a03c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/755480d265b8b547235846b3734cdf3e3edc901d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b91eadc5e597f6383cb6742c3b7d31bb285b9e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.7.0/22c61dda6d7e63a7325932c85b0a3412443b1f5a/okhttp-urlconnection-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="22c61dda6d7e63a7325932c85b0a3412443b1f5a">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.7.0_4eb4995976ec66f1948c876097db6fb409d27ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-jsr166e/2.22.2/3ef9c67a5bea4d914a45bd54f3405fa29a368f7a/jersey-jsr166e-2.22.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jersey-jsr166e-2.22.2_a13dc3dc500d5f886c33dcaded4852d0aa426b7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-rxjava/1.7.0/7a09e1124cdf25db74d453182b9de89061089031/fuel-rxjava-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7a09e1124cdf25db74d453182b9de89061089031">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/fuel-rxjava-1.7.0_ffcf81aafffba4ba07631d6e27ec0380f0c703e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.4_8d34bbf14ead28170fa6f5758aab92a47210b169/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/b9269587c98d1c3bde2df5077bcabd5cb79f7f27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c3bf0d2e624393633bdc8e0adb76114a3eb9469/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/core/3.8.0/93b8a390d018d74d1eb9014ba14dbdaee2a2b318/core-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="93b8a390d018d74d1eb9014ba14dbdaee2a2b318">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.8.0_bf7018d8c728029ebfe1891d27b1e7471c6a74fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_48f398b084fa2bed228b02ec30092cdad532d104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.7.0/9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734/logging-interceptor-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.7.0_708643c6611dfc2229fb161e9023aa67fa165ea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.3-2/3fe54c7558c903868351ac79b792d152bca958f2/kotlin-stdlib-jre7-1.1.3-2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3fe54c7558c903868351ac79b792d152bca958f2">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.3-2_7c1a650ebeb58119c83cf46ae06e1d69f186f9bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/ee51718d580a3a383dfce724189cae3e40cae7fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="62f733cc92b1611138da965697f4654cd385e078">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23e58898d607f0b5d2f79b53ac2e26a137fde890/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/83231e965ca0e583de7e71befd8ea6964388e2de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9405096c0de37207237b48a8e1545fe19c592aa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/cf5738a6f211f3aeba6e5d1ecde0b1c427e7eb01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80540c4a76ccb37705235b404e8c2be7539ea361/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/787f721057559274ad23c210d8150de27e9722fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e1e9d211d7dd975a604ae5f65d2989ece5826b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/f5d7773474157964ee04489502d9c515f3c10684/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b1e1b15e76cd9f599fee69f3356702f46f97478/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/e5bc75c6f469208a6907b6e9e49bdb739a79aab8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c3109094cab31be373bb134c59b2d4645bd9be6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_6aa214ca44524425991b31c4a3fbeed6a81bee21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.1.0_faf2ca5821ed867f327be0ea7e3d2a5e164e4e18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/visual-recognition/3.8.0/c0f8194f2b4db6df94535cd610e0990568b029b/visual-recognition-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0c0f8194f2b4db6df94535cd610e0990568b029b">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/visual-recognition-3.8.0_7ad478f2f32c2fd5cfe3dbfd682201555a4b1d2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7c9f437be73d8666d7a37d0123cb5382e5c01758/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_399deadab588062b11a589d50dd4ec58da698cfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.beust/klaxon/0.31/2dd3477c84726d34a674e0d15635af7c8fd8fb4b/klaxon-0.31.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2dd3477c84726d34a674e0d15635af7c8fd8fb4b">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/klaxon-0.31_0231d956b36419180cb8c7a340b6ed86b8fcbc5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3712fcb7fb1e46c8c18afbde04a267e01d8c30a9">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b1ebe64bca2c681adab8d598fc2da4448f008ed4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.7.0/6edbebdd8868708db718d15c09c4b28037fd487e/okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.7.0_bedce0173953ac9e8a59a3155137e15af7009eef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/ebd2c744d90738304531279fdbfb876678be171a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21275f83caadfd58e317ddce07b2d067e62605fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/maru/.android/build-cache/999509a7949f0886c14ee4284c86691b7cd30d4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/maru/Documents/AndroidStudy/VRKotlin-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd45c6cf1d09b13fa34189df441ea037e6c9ef28/classes.dex" />
+    </item>
+
+</items>
