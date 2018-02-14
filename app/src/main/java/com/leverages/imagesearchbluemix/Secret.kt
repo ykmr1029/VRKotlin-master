@@ -7,7 +7,7 @@ package com.leverages.imagesearchbluemix
 
 
 val WATSON_API_KEY = "9c5a2619821e54cb0c82012b8a75d751d4b89f6b"
-val VR_USE_CLASSIFIERS = listOf("XylitolBottleGum")
+val VR_USE_CLASSIFIERS = listOf("Acuo_96620969")
 
 /*
 * Your AWS Access Key ID, as taken from the AWS Your Account page.

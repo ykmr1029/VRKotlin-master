@@ -82,15 +82,17 @@ class CameraFragment : Fragment(),View.OnClickListener, FragmentCompat.OnRequest
             var options: ClassifyImagesOptions = ClassifyImagesOptions.Builder()
                     .classifierIds(VR_USE_CLASSIFIERS)
                     .images(data, "test.jpeg")
-                    .build();
+                    .build()
+            println("data = " + data)
             var result = vr.classify(options).execute().toString()
-            println("result= " + result)
+            println(result)
             WatsonParser.vrResponseParse(result)?.let {
                 resultQuery = it
                 (activity as CameraFragmentInterface).onCameraFragmentInteraction(this)
                 pause = false
             } ?: run {
                 Toast.makeText(activity, "画像が認識できませんでした", Toast.LENGTH_LONG).show()
+                println("toast = 画像が認識できませんでした")
                 pause = false
                 mCaptureSession?.setRepeatingRequest(mCaptureRequest, mCaptureCallback,
                         mBackgroundHandler)

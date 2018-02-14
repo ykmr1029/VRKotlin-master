@@ -7,7 +7,7 @@ import com.beust.klaxon.*;
  */
 object WatsonParser{
     var klaxonParser:Parser = Parser()
-    fun vrResponseParse(strJson:String,category: String = "XylitolBottleGum"):String?{
+    fun vrResponseParse(strJson:String,category: String = "Acuo"):String?{
         var json:JsonObject = klaxonParser.parse(StringBuilder(strJson)) as JsonObject
         var images = json.array<JsonObject>("images")
 
